@@ -4,6 +4,8 @@ The input audio file is segmented and processed for the extraction of audio feat
 
 Our work so far can produce a dance routine for the BPMs 60, 90 and 120, as the moves were recorded on these. The routine is not very diverse or smooth due to a very small collection of moves. The scope of our project included segmentation of audio to retrieve meaningful information which we have achieved using the audio processing libraries Librosa and Essentia, The major addition to our algorithm (MAZY) in second phase was that we have started considering the local beats tempo in our heuristic function. This ensures that maximum sync in achieved. Moreover we have implemented a website and android application supported by our backend server running on amazon EC2 instance. Android application has a feedback module that tracks the feedback from the user. This feedback is used to list smoothness and beats syncing. This feedback is incorporated into learning module that uses probabilistic model to enhance the selection of moves against songs provided. Moreover we have rebuilt the data set to ensure that dance moves are recorded with a context to enhance smoothness of final dance routine that is generated.
 
+### [Read more details](https://github.com/Yahyaali1/Raks_Roll_Thesis/blob/master/Raks%26Roll.pdf)
+
 # App Wire frames
 
 <img src="https://github.com/Yahyaali1/Raks_Roll_Thesis/blob/master/Design/Asset%201.png" height="350" width="1100">
