@@ -15,8 +15,7 @@ Our work so far can produce a dance routine for the BPMs 60, 90 and 120, as the 
 ![Alt text](https://github.com/Yahyaali1/Raks_Roll_Thesis/blob/master/Results/result_Sample.gif)
 
 # More Results
-<a href="https://www.youtube.com/watch?v=OBTSdGEk0Ng&list=PLoWPKdTHNZ9Te62Lz87CRk80YwV_Eu0Om
-" target="_blank"><img src="https://github.com/Yahyaali1/Raks_Roll_Thesis/blob/master/sampleImage.JPG" 
+<a href="https://www.youtube.com/watch?v=jabA5FpAVaQ" target="_blank"><img src="https://github.com/Yahyaali1/Raks_Roll_Thesis/blob/master/sampleImage.JPG" 
 alt="Click to watch the results" width="540" height="450" border="10" /></a>
 
 
@@ -24,7 +23,11 @@ alt="Click to watch the results" width="540" height="450" border="10" /></a>
 For future, we intend to use artificial intelligence to gauge the entertainment factor of the dance produced, and also be able to produce dynamic pacing of a move for an extracted BPM that did not exist in the dance data.
 
 # Team
-![Alt text](https://media.licdn.com/dms/image/C5112AQF9uUl4DB2nFA/article-inline_image-shrink_1500_2232/0?e=1541030400&v=beta&t=fXIEgoWf4ep313kpK0G02vVcLNcdQqbhHIyJWVXkAro)
+- https://github.com/Yahyaali1
+- https://github.com/zainab-amir
+- Aleena Farooq
+- https://github.com/moeez96
+
 
 
 
